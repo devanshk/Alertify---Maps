@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AlertifyMaps</string>
+    <string name="accessToken">pk.eyJ1IjoicG93ZXJkZXN0ZXIiLCJhIjoiY2lqcXcyaDdjMDR3aHRya284eXh4YXZvdyJ9.9jU3bfM1k6iFANuPXIgQhw</string>
+</resources>
